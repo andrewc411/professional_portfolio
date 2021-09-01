@@ -1,0 +1,9 @@
+.background{
+    background-color: blueviolet;
+    background-image: cover;
+}
+img{
+    width: auto ;
+    height: auto;
+    background-size: cover;
+}

@@ -1,3 +1,9 @@
+body{
+    background-image: url(images/background.jpg);
+    background-size: stretch;
+    background-repeat: no-repeat;
+    font-size: 18px;
+}
 img{
     width: 250px ;
     height: 250px;
@@ -5,13 +11,13 @@ img{
 }
 h1{
     text-align: center;
-    background-color: cadetblue;
-    color:  rgb(228, 228, 228);
+    background-color: rgb(82, 131, 185);
+    color: white;
 }
 h2{
     text-align: center;
-    background-color: cadetblue;
-    color: rgb(228, 228, 228);
+    background-color: rgb(82, 131, 185);
+    color: white;
 }
 .center{
     display: block;
@@ -29,4 +35,7 @@ p{
 .linkedin_logo{
     width: 100px;
     height: 100px;
+}
+div , ul{
+    text-align: center;
 }

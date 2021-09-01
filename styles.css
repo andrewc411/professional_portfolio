@@ -1,9 +1,32 @@
-.background{
-    background-color: blueviolet;
-    background-image: cover;
-}
 img{
-    width: auto ;
-    height: auto;
-    background-size: cover;
+    width: 250px ;
+    height: 250px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    background-color: cadetblue;
+    color:  rgb(228, 228, 228);
+}
+h2{
+    text-align: center;
+    background-color: cadetblue;
+    color: rgb(228, 228, 228);
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    text-align: center;
+}
+.FacebookLogo{
+    width: 90px;
+    height: 88px;
+    margin-bottom: 7px;
+}
+.linkedin_logo{
+    width: 100px;
+    height: 100px;
 }

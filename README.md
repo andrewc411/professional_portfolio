@@ -1,7 +1,7 @@
 # Professional Portfolio
 
 ## Description
-This is my professional portfolio. I used HTML and CSS. You will find my contact info as well as a short bio about me and a couple of projects I completed.
+This is my professional portfolio. I used HTML and CSS. You will find my contact info as well as a short bio about me and a couple of projects I completed. As well as a group project (Weekly Meal Planner) that I collaborated with my classmates to complete.
 
 ## User Story
 ```

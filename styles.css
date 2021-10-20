@@ -1,3 +1,10 @@
 body{
-    background-image: url(images/background.jpg);
+    background-image: url(https://i.pinimg.com/originals/fa/9a/51/fa9a512412b269ee7eaae6d9a1088381.gif);
+    background-size: cover;
+}
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 1em;
 }

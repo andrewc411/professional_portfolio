@@ -20,5 +20,5 @@ Bootstrap
 ### Deployed App
 https://andrewc411.github.io/professional_portfolio/
 
-![image](https://user-images.githubusercontent.com/88997322/138110175-2ee9e195-3d67-49fb-888e-c41363c1aa2c.png)
+![image](https://user-images.githubusercontent.com/88997322/141311031-bdf5df39-9934-4c0b-8a7d-fd9866a37b1d.png)
 

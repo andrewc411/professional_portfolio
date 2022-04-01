@@ -1,9 +1,10 @@
-.background{
-    background-color: blueviolet;
-    background-image: cover;
-}
-img{
-    width: auto ;
-    height: auto;
+body{
+    background-image: url(http://textures.world/wp-content/uploads/2020/07/10-Energy-Rock-Background-Textures.jpg);
     background-size: cover;
+}
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 1em;
 }

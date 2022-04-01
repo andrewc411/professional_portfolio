@@ -8,3 +8,16 @@ body {
   margin: 0;
   padding: 1em;
 }
+.img-thumbnail{
+  animation: img-thumbnail 3s;
+}
+
+@keyframes img-thumbnail {
+  from {
+    opacity: 0;
+  }
+  
+  to {
+    opacity: 1;
+  }
+}

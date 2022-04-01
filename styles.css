@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body{
     background-image: url(http://textures.world/wp-content/uploads/2020/07/10-Energy-Rock-Background-Textures.jpg);
     background-size: cover;
@@ -8,15 +7,4 @@ body {
   height: 100%;
   margin: 0;
   padding: 1em;
-=======
-body{
-    background-image: url(http://textures.world/wp-content/uploads/2020/07/10-Energy-Rock-Background-Textures.jpg);
-    background-size: cover;
-}
-html,
-body {
-  height: 100%;
-  margin: 0;
-  padding: 1em;
->>>>>>> 0049b075a01451c2788f6d0a35185da0937f196b
 }

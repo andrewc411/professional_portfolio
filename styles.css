@@ -1,5 +1,5 @@
 body{
-    background-image: url(http://textures.world/wp-content/uploads/2020/07/10-Energy-Rock-Background-Textures.jpg);
+    background-image: url(https://p1.pxfuel.com/preview/77/328/33/stones-white-white-stones-nature.jpg);
     background-size: cover;
 }
 html,
@@ -20,4 +20,7 @@ body {
   to {
     opacity: 1;
   }
+}
+.p-3, h1 {
+  background-image: url(https://previews.123rf.com/images/siraphol/siraphol1608/siraphol160805951/61417084-white-stone-wall-textures-for-background.jpg);
 }

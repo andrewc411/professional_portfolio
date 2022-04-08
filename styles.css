@@ -24,3 +24,7 @@ body {
 .p-3, h1 {
   background-image: url(https://previews.123rf.com/images/siraphol/siraphol1608/siraphol160805951/61417084-white-stone-wall-textures-for-background.jpg);
 }
+
+.nav-link {
+  font-weight: bold;
+}

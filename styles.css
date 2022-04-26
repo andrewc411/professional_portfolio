@@ -26,10 +26,22 @@ body {
   background-size: cover;
 }
 
+h1 {
+  font-size: 50px;
+}
+
 .nav-link {
   font-weight: bold;
 }
 
 a:hover {
   text-shadow: 1px 1px rgb(104, 104, 105);
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+img {
+  margin-left: 1rem;
 }
